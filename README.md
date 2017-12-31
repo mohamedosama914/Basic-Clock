@@ -1,4 +1,4 @@
 # BasicClock
-Pure HTML5, CSS and JS (Vanilla) analog clock
+Pure HTML5, CSS and JS BasicClock
 
 https://codepen.io/MohamedOsama914/pen/NXjOOV/
